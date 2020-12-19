@@ -479,7 +479,7 @@ html {scroll-behavior:smooth;}
 
 
 /* Responsive untuk Smartphone dan layar maximal 400px*/
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 480px) {
 
     .jumbotron {
         /* background-size: 100%; */
